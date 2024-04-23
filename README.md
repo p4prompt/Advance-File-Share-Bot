@@ -30,7 +30,7 @@ I Guess This Will Be Usefull For Many People....😇.
 
 **If you need any more modes in repo or If you find out any bugs, mention in [@support ](https://t.me/vj_bot_disscussion)**
 
-**Make sure to see [contributing.md](https://github.com/VJBots/Advance-File-Share-Bot/blob/main/CONTRIBUTING.md) for instructions on contributing to the project!**
+**Make sure to see [contributing.md](https://github.com/p4prompt/Advance-File-Share-Bot/blob/main/CONTRIBUTING.md) for instructions on contributing to the project!**
 
 
 
@@ -65,7 +65,7 @@ I Guess This Will Be Usefull For Many People....😇.
 The fastest way to deploy the application is to click the **Deploy to Koyeb** button below.
 
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/VJBots/Advance-File-Share-Bot&branch=Tech_VJ&name=filesharingbot)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/p4prompt/Advance-File-Share-Bot&branch=Tech_VJ&name=filesharingbot)
 
 
 #### Deploy in your VPS
